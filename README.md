@@ -4,7 +4,7 @@ Projeto de um jogo em Unity 2D
 Projeto ainda em andamento, sendo feito por 3 estudantes:
 - Carlos Daniel Ludovico de Lima
 - Fernando Luiz Fontana Junior
-- Vitor Hugo Rodrigues Costa 
+- Vitor Hugo Rodrigues Costa
 Instituição de Ensino: FMU - Centro Universitário das Faculdades Metropolitanas Unidas
 
 ## Sobre

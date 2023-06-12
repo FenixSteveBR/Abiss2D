@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0624a4f4b02a4ca4aade858e5ef6f0f3, type: 3}
+  m_Name: KitSOS
+  m_EditorClassIdentifier: 
+  nome: Kit SOS
+  tipos: 7
+  level: 0
+  prefab: {fileID: 6988939958730961479, guid: ea9dcf0be463e3f4ea5903f7b5de209e, type: 3}
+  descricao: "Item chave: Kit usado em momentos de emergencia que possibilita atendimento
+    rapido de alguns ferimentos.\n\nCont\xE9m um composto injet\xE1vel misterioso."

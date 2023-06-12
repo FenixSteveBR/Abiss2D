@@ -1,0 +1,3 @@
+
+[00:00] -> Começou na fase: CutsceneInicial
+[00:12] -> Entrou na Sala 5

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0624a4f4b02a4ca4aade858e5ef6f0f3, type: 3}
+  m_Name: Cura
+  m_EditorClassIdentifier: 
+  nome: Cura
+  tipos: 11
+  level: 0
+  prefab: {fileID: 4187443060567821938, guid: ca3ea279e48193444aa702ac4288b08d, type: 3}
+  descricao: "Inje\xE7\xE3o estimulante que cont\xE9m um composto de Adrenalina e
+    Antibi\xF3tico"

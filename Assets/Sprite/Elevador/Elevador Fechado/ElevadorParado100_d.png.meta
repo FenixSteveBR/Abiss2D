@@ -1,0 +1,1746 @@
+fileFormatVersion: 2
+guid: 06370472cecab4b45a7764cb41247a25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4569682766877817492
+    second: ElevadorParado100_d_0
+  - first:
+      213: -5372216992428583111
+    second: ElevadorParado100_d_1
+  - first:
+      213: 2782207746444748431
+    second: ElevadorParado100_d_2
+  - first:
+      213: 5100865300903333574
+    second: ElevadorParado100_d_3
+  - first:
+      213: -3042974225582987670
+    second: ElevadorParado100_d_4
+  - first:
+      213: 1280723320257452898
+    second: ElevadorParado100_d_5
+  - first:
+      213: -1413801996483381884
+    second: ElevadorParado100_d_6
+  - first:
+      213: -1355385245671012190
+    second: ElevadorParado100_d_7
+  - first:
+      213: -167182847177627038
+    second: ElevadorParado100_d_8
+  - first:
+      213: -1723512545376839041
+    second: ElevadorParado100_d_9
+  - first:
+      213: 2320044259524423481
+    second: ElevadorParado100_d_10
+  - first:
+      213: 7670771836198232117
+    second: ElevadorParado100_d_11
+  - first:
+      213: 6495526879887887925
+    second: ElevadorParado100_d_12
+  - first:
+      213: 3699820668863609360
+    second: ElevadorParado100_d_13
+  - first:
+      213: -2676241646785703319
+    second: ElevadorParado100_d_14
+  - first:
+      213: -2620515049642668073
+    second: ElevadorParado100_d_15
+  - first:
+      213: 5062252329799215114
+    second: ElevadorParado100_d_16
+  - first:
+      213: -633206440086253130
+    second: ElevadorParado100_d_17
+  - first:
+      213: -7474685811265029740
+    second: ElevadorParado100_d_18
+  - first:
+      213: -8438650469847663379
+    second: ElevadorParado100_d_19
+  - first:
+      213: -1427919872002334012
+    second: ElevadorParado100_d_20
+  - first:
+      213: -7350741889248379304
+    second: ElevadorParado100_d_21
+  - first:
+      213: -8973668565870680121
+    second: ElevadorParado100_d_22
+  - first:
+      213: -2215489842719781031
+    second: ElevadorParado100_d_23
+  - first:
+      213: -123320350093534797
+    second: ElevadorParado100_d_24
+  - first:
+      213: -4081957817325797504
+    second: ElevadorParado100_d_25
+  - first:
+      213: -4868558857104066965
+    second: ElevadorParado100_d_26
+  - first:
+      213: -7587108827699771148
+    second: ElevadorParado100_d_27
+  - first:
+      213: 8713356115371162570
+    second: ElevadorParado100_d_28
+  - first:
+      213: -7054002314356470311
+    second: ElevadorParado100_d_29
+  - first:
+      213: 5988132388767586688
+    second: ElevadorParado100_d_30
+  - first:
+      213: 1141897860457919048
+    second: ElevadorParado100_d_31
+  - first:
+      213: -2142328269718608918
+    second: ElevadorParado100_d_32
+  - first:
+      213: -7756151836618896529
+    second: ElevadorParado100_d_33
+  - first:
+      213: -2433966557574614473
+    second: ElevadorParado100_d_34
+  - first:
+      213: -5571866928819183419
+    second: ElevadorParado100_d_35
+  - first:
+      213: -2296050644564675084
+    second: ElevadorParado100_d_36
+  - first:
+      213: 1653266801801089764
+    second: ElevadorParado100_d_37
+  - first:
+      213: 1932636926750798267
+    second: ElevadorParado100_d_38
+  - first:
+      213: 819649311666743903
+    second: ElevadorParado100_d_39
+  - first:
+      213: 7899808097029037810
+    second: ElevadorParado100_d_40
+  - first:
+      213: 2814650298258951751
+    second: ElevadorParado100_d_41
+  - first:
+      213: -1774167238561189487
+    second: ElevadorParado100_d_42
+  - first:
+      213: -6057287122088867908
+    second: ElevadorParado100_d_43
+  - first:
+      213: 2551972469760596402
+    second: ElevadorParado100_d_44
+  - first:
+      213: 2872121896014117895
+    second: ElevadorParado100_d_45
+  - first:
+      213: 5228590120829613474
+    second: ElevadorParado100_d_46
+  - first:
+      213: 1498143491225628370
+    second: ElevadorParado100_d_47
+  - first:
+      213: 293130386152919951
+    second: ElevadorParado100_d_48
+  - first:
+      213: 9158982112087626711
+    second: ElevadorParado100_d_49
+  - first:
+      213: -7726115910435224993
+    second: ElevadorParado100_d_50
+  - first:
+      213: -3025123432541504617
+    second: ElevadorParado100_d_51
+  - first:
+      213: 7380010860389817142
+    second: ElevadorParado100_d_52
+  - first:
+      213: -4453497166740016167
+    second: ElevadorParado100_d_53
+  - first:
+      213: -3834543987737849847
+    second: ElevadorParado100_d_54
+  - first:
+      213: -2616588231219282261
+    second: ElevadorParado100_d_55
+  - first:
+      213: 2520384905605151914
+    second: ElevadorParado100_d_56
+  - first:
+      213: -1997404246281361817
+    second: ElevadorParado100_d_57
+  - first:
+      213: -8075249632355692231
+    second: ElevadorParado100_d_58
+  - first:
+      213: 1054152075673611270
+    second: ElevadorParado100_d_59
+  - first:
+      213: -6393867844782588958
+    second: ElevadorParado100_d_60
+  - first:
+      213: 3280741347599939989
+    second: ElevadorParado100_d_61
+  - first:
+      213: 3362755731267444516
+    second: ElevadorParado100_d_62
+  - first:
+      213: -7463005487206422142
+    second: ElevadorParado100_d_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElevadorParado100_d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49af9f7e346ca6f30800000000000000
+      internalID: 4569682766877817492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9371afdcb1d0275b0800000000000000
+      internalID: -5372216992428583111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86ed2264336c9620800000000000000
+      internalID: 2782207746444748431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce857337f9e9c640800000000000000
+      internalID: 5100865300903333574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e47f601f25c5d0800000000000000
+      internalID: -3042974225582987670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b118ff21b06c110800000000000000
+      internalID: 1280723320257452898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485bed8239a216ce0800000000000000
+      internalID: -1413801996483381884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a849f9dc44b03de0800000000000000
+      internalID: -1355385245671012190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a6075161c0eadf0800000000000000
+      internalID: -167182847177627038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a52e6b87ad418e0800000000000000
+      internalID: -1723512545376839041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f232046f3723020800000000000000
+      internalID: 2320044259524423481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_11
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530aaa1f75e047a60800000000000000
+      internalID: 7670771836198232117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e08b0584fb42a50800000000000000
+      internalID: 6495526879887887925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a734cbb47685330800000000000000
+      internalID: 3699820668863609360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_14
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9625b3ec6641cdad0800000000000000
+      internalID: -2676241646785703319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_15
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfcb79427f02abd0800000000000000
+      internalID: -2620515049642668073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_16
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0863194cabb04640800000000000000
+      internalID: 5062252329799215114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_17
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b15b2df8166637f0800000000000000
+      internalID: -633206440086253130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_18
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49935e37bd4944890800000000000000
+      internalID: -7474685811265029740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_19
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decfb098b14e3ea80800000000000000
+      internalID: -8438650469847663379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_20
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2649d11720f2ce0800000000000000
+      internalID: -1427919872002334012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_21
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e34c7923becf990800000000000000
+      internalID: -7350741889248379304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_22
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7603fdbff177380800000000000000
+      internalID: -8973668565870680121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_23
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f8339e9bff041e0800000000000000
+      internalID: -2215489842719781031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_24
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b919138bc0e94ef0800000000000000
+      internalID: -123320350093534797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_25
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fba260ef8f957c0800000000000000
+      internalID: -4081957817325797504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_26
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66fa32a3876f6cb0800000000000000
+      internalID: -4868558857104066965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_27
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f889bc28bc25b690800000000000000
+      internalID: -7587108827699771148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_28
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbfc2ab83f0ce870800000000000000
+      internalID: 8713356115371162570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_29
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddcfffc4462b1e90800000000000000
+      internalID: -7054002314356470311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_30
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089d08c5eae1a1350800000000000000
+      internalID: 5988132388767586688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_31
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8427f56dd06d8df00800000000000000
+      internalID: 1141897860457919048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_32
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3252b0acbe442e0800000000000000
+      internalID: -2142328269718608918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_33
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b465a9ffc9c5490800000000000000
+      internalID: -7756151836618896529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_34
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732b594cf40d83ed0800000000000000
+      internalID: -2433966557574614473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_35
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c06cfb9c80cca2b0800000000000000
+      internalID: -5571866928819183419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_36
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f57a609a1ac220e0800000000000000
+      internalID: -2296050644564675084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_37
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2dc48956591f610800000000000000
+      internalID: 1653266801801089764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_38
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1b8ca9b0b12da10800000000000000
+      internalID: 1932636926750798267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_39
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a2a4ec4baff5b00800000000000000
+      internalID: 819649311666743903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_40
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe9b29fb91c1ad60800000000000000
+      internalID: 7899808097029037810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_41
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0caa9885af0720800000000000000
+      internalID: 2814650298258951751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_42
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191bc65eb44e067e0800000000000000
+      internalID: -1774167238561189487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_43
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb74851947130fba0800000000000000
+      internalID: -6057287122088867908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_44
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b918a8b07d6a6320800000000000000
+      internalID: 2551972469760596402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_45
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cfa83b5a3dbd720800000000000000
+      internalID: 2872121896014117895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_46
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a57a2c330faf8840800000000000000
+      internalID: 5228590120829613474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_47
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de211951997ac410800000000000000
+      internalID: 1498143491225628370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_48
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83948b7888611400800000000000000
+      internalID: 293130386152919951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_49
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3d32f54bd3b1f70800000000000000
+      internalID: 9158982112087626711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_50
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52c301a38257c490800000000000000
+      internalID: -7726115910435224993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_51
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b37a1144a9406d0800000000000000
+      internalID: -3025123432541504617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_52
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b5f0cc6c01b6660800000000000000
+      internalID: 7380010860389817142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_53
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3b0482ceff132c0800000000000000
+      internalID: -4453497166740016167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_54
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90096473f86f8cac0800000000000000
+      internalID: -3834543987737849847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_55
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baef4b2fdd200bbd0800000000000000
+      internalID: -2616588231219282261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_56
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacf9d3d7b43af220800000000000000
+      internalID: 2520384905605151914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_57
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ea83bb6bc744e0800000000000000
+      internalID: -1997404246281361817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_58
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d5de6e33feef80800000000000000
+      internalID: -8075249632355692231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_59
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c24c94ab911ae00800000000000000
+      internalID: 1054152075673611270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_60
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebf0f2421b6447a0800000000000000
+      internalID: -6393867844782588958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_61
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59971af9fd8878d20800000000000000
+      internalID: 3280741347599939989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_62
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fda9c5588eaae20800000000000000
+      internalID: 3362755731267444516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElevadorParado100_d_63
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 0
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2892542dc041e6890800000000000000
+      internalID: -7463005487206422142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ElevadorParado100_d_14: -2676241646785703319
+      ElevadorParado100_d_57: -1997404246281361817
+      ElevadorParado100_d_35: -5571866928819183419
+      ElevadorParado100_d_16: 5062252329799215114
+      ElevadorParado100_d_49: 9158982112087626711
+      ElevadorParado100_d_54: -3834543987737849847
+      ElevadorParado100_d_59: 1054152075673611270
+      ElevadorParado100_d_47: 1498143491225628370
+      ElevadorParado100_d_36: -2296050644564675084
+      ElevadorParado100_d_52: 7380010860389817142
+      ElevadorParado100_d_63: -7463005487206422142
+      ElevadorParado100_d_9: -1723512545376839041
+      ElevadorParado100_d_40: 7899808097029037810
+      ElevadorParado100_d_32: -2142328269718608918
+      ElevadorParado100_d_43: -6057287122088867908
+      ElevadorParado100_d_41: 2814650298258951751
+      ElevadorParado100_d_23: -2215489842719781031
+      ElevadorParado100_d_56: 2520384905605151914
+      ElevadorParado100_d_4: -3042974225582987670
+      ElevadorParado100_d_58: -8075249632355692231
+      ElevadorParado100_d_38: 1932636926750798267
+      ElevadorParado100_d_17: -633206440086253130
+      ElevadorParado100_d_61: 3280741347599939989
+      ElevadorParado100_d_3: 5100865300903333574
+      ElevadorParado100_d_10: 2320044259524423481
+      ElevadorParado100_d_19: -8438650469847663379
+      ElevadorParado100_d_62: 3362755731267444516
+      ElevadorParado100_d_30: 5988132388767586688
+      ElevadorParado100_d_48: 293130386152919951
+      ElevadorParado100_d_2: 2782207746444748431
+      ElevadorParado100_d_22: -8973668565870680121
+      ElevadorParado100_d_39: 819649311666743903
+      ElevadorParado100_d_5: 1280723320257452898
+      ElevadorParado100_d_6: -1413801996483381884
+      ElevadorParado100_d_46: 5228590120829613474
+      ElevadorParado100_d_55: -2616588231219282261
+      ElevadorParado100_d_11: 7670771836198232117
+      ElevadorParado100_d_26: -4868558857104066965
+      ElevadorParado100_d_42: -1774167238561189487
+      ElevadorParado100_d_45: 2872121896014117895
+      ElevadorParado100_d_7: -1355385245671012190
+      ElevadorParado100_d_15: -2620515049642668073
+      ElevadorParado100_d_12: 6495526879887887925
+      ElevadorParado100_d_34: -2433966557574614473
+      ElevadorParado100_d_13: 3699820668863609360
+      ElevadorParado100_d_28: 8713356115371162570
+      ElevadorParado100_d_25: -4081957817325797504
+      ElevadorParado100_d_51: -3025123432541504617
+      ElevadorParado100_d_29: -7054002314356470311
+      ElevadorParado100_d_21: -7350741889248379304
+      ElevadorParado100_d_8: -167182847177627038
+      ElevadorParado100_d_50: -7726115910435224993
+      ElevadorParado100_d_33: -7756151836618896529
+      ElevadorParado100_d_31: 1141897860457919048
+      ElevadorParado100_d_1: -5372216992428583111
+      ElevadorParado100_d_27: -7587108827699771148
+      ElevadorParado100_d_44: 2551972469760596402
+      ElevadorParado100_d_37: 1653266801801089764
+      ElevadorParado100_d_0: 4569682766877817492
+      ElevadorParado100_d_18: -7474685811265029740
+      ElevadorParado100_d_53: -4453497166740016167
+      ElevadorParado100_d_20: -1427919872002334012
+      ElevadorParado100_d_24: -123320350093534797
+      ElevadorParado100_d_60: -6393867844782588958
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

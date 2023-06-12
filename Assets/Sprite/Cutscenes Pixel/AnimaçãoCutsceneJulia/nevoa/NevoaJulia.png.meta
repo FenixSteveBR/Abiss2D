@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 3f659912d0be068419321e997abee285
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NevoaJulia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -3}
+        - {x: -11, y: -13}
+        - {x: -8, y: -15}
+        - {x: -4, y: -14}
+        - {x: -4, y: -2}
+        - {x: -7, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4787babed88a1d446a3c9ca755cd1add
+      internalID: 902514690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NevoaJulia_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 1}
+        - {x: -12, y: -3}
+        - {x: -12, y: -13}
+        - {x: -8, y: -16}
+        - {x: -5, y: -16}
+        - {x: -2, y: -10}
+        - {x: -2, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918109eea728d8741936e6bdfdb0b5c2
+      internalID: 681171859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NevoaJulia_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: 0}
+        - {x: -13, y: -20}
+        - {x: -12, y: -21}
+        - {x: -4, y: -21}
+        - {x: -1, y: -20}
+        - {x: -1, y: -2}
+        - {x: -4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9258353b253b4d6499f0f7278d58c162
+      internalID: 844453819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NevoaJulia_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 8}
+        - {x: -8, y: 7}
+        - {x: -13, y: -2}
+        - {x: -13, y: -12}
+        - {x: -10, y: -23}
+        - {x: -8, y: -24}
+        - {x: -3, y: -24}
+        - {x: 0, y: -23}
+        - {x: 0, y: 5}
+        - {x: -4, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ebe45530952ee4e8c6cdac1d7ecbe0
+      internalID: 767607873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NevoaJulia_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 12}
+        - {x: -14, y: 7}
+        - {x: -14, y: -23}
+        - {x: -10, y: -25}
+        - {x: -2, y: -25}
+        - {x: 0, y: -21}
+        - {x: 0, y: 7}
+        - {x: -2, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abf71a27a8cf574c8f327dbaed911b5
+      internalID: 68659021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NevoaJulia_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 11}
+        - {x: -15, y: 5}
+        - {x: -15, y: -22}
+        - {x: -13, y: -25}
+        - {x: -2, y: -25}
+        - {x: 2, y: -23}
+        - {x: 2, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30394bc2bb8afbb4495b4bee9c52b384
+      internalID: -435551938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NevoaJulia_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 13}
+        - {x: -18, y: 3}
+        - {x: -18, y: -23}
+        - {x: -13, y: -26}
+        - {x: 5, y: -26}
+        - {x: 5, y: 4}
+        - {x: -4, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a11b973858f6245a406be732372aaf
+      internalID: 213061116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NevoaJulia_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 14}
+        - {x: -11, y: 12}
+        - {x: -16, y: 4}
+        - {x: -16, y: -20}
+        - {x: -12, y: -27}
+        - {x: 1, y: -27}
+        - {x: 4, y: -26}
+        - {x: 4, y: 6}
+        - {x: 0, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123cf14d3f5dc05439063158c28cb322
+      internalID: -1547533346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NevoaJulia_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 14}
+        - {x: -18, y: 7}
+        - {x: -18, y: -26}
+        - {x: 5, y: -26}
+        - {x: 5, y: 13}
+        - {x: -3, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e2815eff8695e448bf9d873754b885
+      internalID: -146273943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NevoaJulia_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: 14}
+        - {x: -18, y: 8}
+        - {x: -18, y: -26}
+        - {x: 5, y: -26}
+        - {x: 5, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742a19c992245c94abc59573532f1436
+      internalID: -1537866733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NevoaJulia_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 14}
+        - {x: -18, y: 14}
+        - {x: -18, y: -27}
+        - {x: 2, y: -27}
+        - {x: 5, y: -26}
+        - {x: 5, y: -1}
+        - {x: 2, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323fb9fe8fd5ccc408192e84c0199837
+      internalID: 594849106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NevoaJulia_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d841a61c1956754eb0a932d78a9b223
+      internalID: -630976067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NevoaJulia_7: -1547533346
+      NevoaJulia_10: 594849106
+      NevoaJulia_11: -630976067
+      NevoaJulia_5: -435551938
+      NevoaJulia_0: 902514690
+      NevoaJulia_3: 767607873
+      NevoaJulia_4: 68659021
+      NevoaJulia_2: 844453819
+      NevoaJulia_1: 681171859
+      NevoaJulia_8: -146273943
+      NevoaJulia_6: 213061116
+      NevoaJulia_9: -1537866733
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

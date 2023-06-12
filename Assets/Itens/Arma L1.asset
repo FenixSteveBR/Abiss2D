@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0624a4f4b02a4ca4aade858e5ef6f0f3, type: 3}
+  m_Name: Arma L1
+  m_EditorClassIdentifier: 
+  nome: Arma
+  tipos: 0
+  level: 1
+  prefab: {fileID: 7855359374806044450, guid: 97a9c493ed3b42343b51efb0154a600b, type: 3}
+  descricao: "Arma que ultiliza pregos como muni\xE7\xE3o e n\xE3o possui um grande
+    poder de fogo, por\xE9m a velocidade seus projeteis atordoam o alvo permitindo
+    sua fuga."

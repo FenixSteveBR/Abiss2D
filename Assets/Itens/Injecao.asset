@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0624a4f4b02a4ca4aade858e5ef6f0f3, type: 3}
+  m_Name: Injecao
+  m_EditorClassIdentifier: 
+  nome: "Inje\xE7\xE3o"
+  tipos: 8
+  level: 0
+  prefab: {fileID: 6988939958730961479, guid: e6d1e625431591f4292eb7659db0dd8d, type: 3}
+  descricao: "Criada nos laborat\xF3rios, essa inje\xE7\xE3o opera diretamente no
+    sistema nervoso central e deve ser administrada na dosagem correta de forma rigorosa,
+    trazendo muitos benef\xEDcios ao corpo e a sa\xFAde mental.\n\nComposto base:
+    AB23"

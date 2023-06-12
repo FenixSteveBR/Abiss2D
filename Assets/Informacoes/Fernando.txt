@@ -1,0 +1,68 @@
+
+[00:00] -> Começou na fase: CutsceneInicial
+[00:23] -> Entrou na Sala 1
+[00:23] -> Entrou na Sala 1
+[00:31] -> Esta correndo
+[00:32] -> Entrou na Sala 2
+[00:32] -> Parou correr
+[00:33] -> Esta correndo
+[00:35] -> Parou correr
+[00:45] -> Esta correndo
+[00:47] -> Parou correr
+[00:48] -> Esta correndo
+[00:49] -> Parou correr
+[00:50] -> Entrou na Sala 6
+[00:51] -> Esta correndo
+[00:53] -> Entrou na Sala 9
+[00:54] -> Parou correr
+[00:54] -> Passou pelo Documento da sala 9
+[00:55] -> Esta correndo
+[00:55] -> Entrou na Sala 6
+[00:56] -> Parou correr
+[00:57] -> Entrou na Sala 8
+[00:58] -> Esta correndo
+[00:59] -> Passou pelo armario com senha da sala 8
+[01:00] -> Parou correr
+[01:00] -> Abriu a hud da senha do armario na sala 8
+[01:09] -> Acertou a senha do armario da sala 8
+[01:11] -> Esta correndo
+[01:12] -> Parou correr
+[01:14] -> Entrou na Sala 6
+[01:25] -> Esta correndo
+[01:26] -> Parou correr
+[01:30] -> Entrou na Sala 7
+[01:31] -> Entrou na Sala 6
+[01:32] -> Esta correndo
+[01:32] -> Parou correr
+[01:33] -> Entrou na Sala 2
+[01:39] -> Esta correndo
+[01:40] -> Parou correr
+[01:40] -> Abriu a porta da sala 5 (Chefe)
+[01:41] -> Tentou abrir a porta da sala 5 (Chefe) sem a chave
+[01:42] -> Entrou na Sala 5
+[01:42] -> Esta correndo
+[01:42] -> Passou pelo quadro da sala 5 (cehefe)
+[01:42] -> Parou correr
+[01:42] -> Ativou o quadro da sala 5 (chefe)
+[01:44] -> Entrou na Sala 2
+[01:48] -> Esta correndo
+[01:48] -> Parou correr
+[02:19] -> Entrou na Sala 6
+[02:21] -> Entrou na Sala 2
+[03:16] -> Entrou na Sala 5
+[03:19] -> Passou pelo computador da sala 5 (chefe)
+[03:24] -> Entrou no Inventario
+[03:26] -> Passou pelo elevador da sala 5 (chefe)
+[03:27] -> Chamou o elevador da sala 5 (chefe)
+[03:31] -> Chamou o elevador da sala 5 (chefe)
+[03:31] -> Entrou no elevador da sala 5 (chefe)
+[04:00] -> 
+Entrando na Fase2
+
+[04:08] -> Entrou na Sala 5
+[04:08] -> Entrou na Sala 6
+[04:12] -> Esta correndo
+[04:15] -> Parou correr
+[04:15] -> Esta correndo
+[04:17] -> Parou correr
+[04:19] -> Entrou na Sala 4

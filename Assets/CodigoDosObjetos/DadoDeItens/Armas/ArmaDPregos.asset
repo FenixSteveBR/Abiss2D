@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ad1b5ce619356428c4a15b09f2255a, type: 3}
+  m_Name: ArmaDPregos
+  m_EditorClassIdentifier: 
+  _nome: Arma de pregos
+  _descricao:
+  - Uma pistola que atira pregos.
+  - " N\xE3o \xE9 letal, mas parece ter efeito atordoante."
+  _sprite: {fileID: 484885635210905817, guid: b0dc4123f63a41c4d83a9ad75b0fbefb, type: 3}

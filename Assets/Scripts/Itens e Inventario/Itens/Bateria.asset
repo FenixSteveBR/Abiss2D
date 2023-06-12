@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1eb4df84e770c34ab74a6686c75f5e9, type: 3}
+  m_Name: Bateria
+  m_EditorClassIdentifier: 
+  imagem: {fileID: 21300000, guid: 675f2df368e2d5540b42fb81b84c44c7, type: 3}
+  tipos: 3
+  nome: Bateria
+  level: 0
+  descricao: 'Item Chave: Modolo de energia externo que parece poder ser aclopado
+    em algum lugar.'
+  prefab: {fileID: 9019745187193755923, guid: c6352f3374e586c4487bd6d9f2fabc3e, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0624a4f4b02a4ca4aade858e5ef6f0f3, type: 3}
+  m_Name: Documento 5
+  m_EditorClassIdentifier: 
+  nome: Bilhete Parte 5
+  tipos: 4
+  level: 0
+  prefab: {fileID: 0}
+  descricao: "Bilhete antigo de cientista parte 5\r\n\n\u201CT00 est\xE1 se comportando
+    estranho, achamos que seja o excesso de extra\xE7\xE3o de sangue e tecido, por\xE9m
+    tem uma possibilidade de a criatura estar envelhecendo ou at\xE9 mesmo morrendo,
+    al\xE9m do mais que a taxa de fracasso e deformidade est\xE3o ficando maiores
+    que a margem de erro,\r\nA morte do esp\xE9cime seria desastrosa, n\xE3o sabemos
+    o impacto que isso teria nas cobaias, talvez precisemos apelar para criogenia!!!\u201D\r\n"

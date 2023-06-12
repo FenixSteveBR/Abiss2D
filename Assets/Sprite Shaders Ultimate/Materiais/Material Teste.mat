@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Material Teste
+  m_Shader: {fileID: 4800000, guid: cdc124520b83239418ad644c2e96fe11, type: 3}
+  m_ShaderKeywords: PIXELSNAP_ON _SHADERSPACE_UV _TIMESETTINGS_LINEAR_DEFAULT
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DirectionalAlphaFadeNoiseTexture:
+        m_Texture: {fileID: 2800000, guid: cd21d0de17dcd734691f79979be13330, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DirectionalGlowFadeNoiseTexture:
+        m_Texture: {fileID: 2800000, guid: cd21d0de17dcd734691f79979be13330, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlitchDistortionTexture:
+        m_Texture: {fileID: 2800000, guid: cd21d0de17dcd734691f79979be13330, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlitchMaskNoise:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlitchNoiseTexture:
+        m_Texture: {fileID: 2800000, guid: cd21d0de17dcd734691f79979be13330, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalNoiseTexture:
+        m_Texture: {fileID: 2800000, guid: cd21d0de17dcd734691f79979be13330, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalShaderMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 1
+    - _DirectionalAlphaFadeFade: 0
+    - _DirectionalAlphaFadeInvert: 0
+    - _DirectionalAlphaFadeNoiseFactor: 0.2
+    - _DirectionalAlphaFadeRotation: 0
+    - _DirectionalAlphaFadeWidth: 0.2
+    - _DirectionalGlowFadeFade: 0
+    - _DirectionalGlowFadeInvert: 0
+    - _DirectionalGlowFadeNoiseFactor: 0.2
+    - _DirectionalGlowFadeRotation: 149
+    - _DirectionalGlowFadeWidth: 0.05
+    - _EnableExternalAlpha: 0
+    - _GlitchBrightness: 4
+    - _GlitchFade: 1
+    - _GlitchHueSpeed: 1
+    - _GlitchMaskMin: 0
+    - _MetalContrast: 1.95
+    - _MetalFade: 0.06
+    - _MetalHighlightContrast: 0.84
+    - _MetalHighlightDensity: 1
+    - _PixelsPerUnit: 20
+    - _RectHeight: 50
+    - _RectWidth: 50
+    - _ScreenWidthUnits: 10
+    - _ShaderSpace: 0
+    - _TimeFPS: 5
+    - _TimeFrequency: 2
+    - _TimeRange: 0.5
+    - _TimeScale: 1
+    - _TimeSettings: 0
+    - _TimeValue: 6
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DirectionalAlphaFadeNoiseScale: {r: 0.3, g: 0.3, b: 0, a: 0}
+    - _DirectionalGlowFadeEdgeColor: {r: 11.98431, g: 0.6901961, b: 0.6901961, a: 0}
+    - _DirectionalGlowFadeNoiseScale: {r: 0.4, g: 0.4, b: 0, a: 0}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _GlitchDistortion: {r: 0.1, g: 0, b: 0, a: 0}
+    - _GlitchDistortionScale: {r: 0, g: 3, b: 0, a: 0}
+    - _GlitchDistortionSpeed: {r: 0, g: 1, b: 0, a: 0}
+    - _GlitchMaskScale: {r: 0, g: 0.2, b: 0, a: 0}
+    - _GlitchMaskSpeed: {r: 0, g: 4, b: 0, a: 0}
+    - _GlitchNoiseScale: {r: 0, g: 3, b: 0, a: 0}
+    - _GlitchNoiseSpeed: {r: 0, g: 1, b: 0, a: 0}
+    - _MetalColor: {r: 0.15812822, g: 0, b: 5.2940836, a: 1}
+    - _MetalHighlightColor: {r: 9.413283, g: 9.413283, b: 9.413283, a: 1}
+    - _MetalNoiseDistortion: {r: -0.55, g: 0.5, b: 0, a: 0}
+    - _MetalNoiseDistortionScale: {r: 0.2, g: 0.2, b: 0, a: 0}
+    - _MetalNoiseDistortionSpeed: {r: -0.05, g: -0.05, b: 0, a: 0}
+    - _MetalNoiseScale: {r: 0.25, g: 0.25, b: 0, a: 0}
+    - _MetalNoiseSpeed: {r: 0.05, g: 0.05, b: 0, a: 0}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

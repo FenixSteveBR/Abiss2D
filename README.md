@@ -7,7 +7,7 @@ Projeto ainda em andamento, sendo feito por 3 estudantes:
 - Vitor Hugo Rodrigues Costa 
 Instituição de Ensino: FMU - Centro Universitário das Faculdades Metropolitanas Unidas
 
-##Sobre
+## Sobre
 
 Abiss é um jogo de Terror e Sobrevivência em 2D, onde o jogador coletará informações em um laboratório destruído em busca de sua irmã, solucionará puzzles e enfrentará inimigos, enquanto sofre com uma misteriosa criatura na escuridão.
 

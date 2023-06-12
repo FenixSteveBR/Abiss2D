@@ -1,10 +1,12 @@
 # AbIssis2D
-Projeto de um jogo em Unity 2D
+Projeto ainda em andamento de um jogo em Unity
 
-Projeto ainda em andamento, sendo feito por 3 estudantes:
+Autores deste projeto:
+```
 - Carlos Daniel Ludovico de Lima
 - Fernando Luiz Fontana Junior
 - Vitor Hugo Rodrigues Costa
+```
 
 Instituição de Ensino: FMU - Centro Universitário das Faculdades Metropolitanas Unidas
 
@@ -13,11 +15,12 @@ Instituição de Ensino: FMU - Centro Universitário das Faculdades Metropolitan
 Abiss é um jogo de Terror e Sobrevivência em 2D, onde o jogador coletará informações em um laboratório destruído em busca de sua irmã, solucionará puzzles e enfrentará inimigos, enquanto sofre com uma misteriosa criatura na escuridão.
 
 ## Documentos
-GDD: https://bit.ly/Abiss2D_GDD
 
-Macro: https://bit.ly/Abiss2D_Macro
+<a href=https://bit.ly/Abiss2D_GDD> GDD Abiss</a>
 
-Enredo: https://bit.ly/Abiss2D_Enredo
+<a href=https://bit.ly/Abiss2D_Macro> Macro Abiss</a>
+
+<a href=https://bit.ly/Abiss2D_Enredo> Enredo Abiss</a>
 
 ### Imagens do Repositório PlasticSCM e do Trello
 Print mostrando a tela principal do PlasticSCM:
